@@ -4,6 +4,7 @@ This is a information retrieval  system I developed in Python with Lucene using 
 
 ## Please use this citation key if you use the code 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dominiqueloyer)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-DominiqueLoyer-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/DominiqueLoyer)
 
 
 \author  Loyer, D. (2025). \
