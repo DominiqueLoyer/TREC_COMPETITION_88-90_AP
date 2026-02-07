@@ -7,6 +7,7 @@ This is a information retrieval  system I developed in Python with Lucene using 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dominiqueloyer)
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-DominiqueLoyer-EA4AAA?logo=github-sponsors)](https://github.com/sponsors/DominiqueLoyer)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17943728.svg)](https://doi.org/10.5281/zenodo.17943728)
+[![SysCRED](https://img.shields.io/badge/Integrated_in-SysCRED-blue)](https://github.com/DominiqueLoyer/systemFactChecking)
 
 \author  Loyer, D. (2025). \
 \title *Projet de création d'un moteur de recheche d'information avec Lucene.* \
